@@ -1,9 +1,9 @@
 {
-  "metaTitle": "Glitch in Bio!",
-  "metaDescription": "My meta description.",
-  "name": "Glitch in Bio",
+  "metaTitle": "Prof",
+  "metaDescription": "Prof",
+  "name": "Prof",
   "theme": "glitch",
-  "avatarImage": "https://cdn.glitch.com/560ed5ed-9d00-433a-9ff9-7750d79d13da%2FGlitch_TeamAvatar.png?v=1624643105812",
+  "avatarImage": "",
   "links": [
     {
       "url": "https://glitch.new/links",
@@ -26,26 +26,26 @@
     "glitch": "https://glitch.com/",
     "spotify": "",
     "substack": "",
-    "dev": "https://dev.to/glitch",
+    "dev": "",
     "facebook": "",
-    "github": "https://github.com/glitchdotcom",
+    "github": "",
     "gitlab": "",
     "hashnode": "",
-    "instagram": "",
+    "instagram": "https://t.co/g2SHZmjm1d",
     "linkedin": "https://www.linkedin.com/company/fog-creek-software",
     "medium": "",
     "patreon": "",
-    "pinterest": "",
-    "twitter": "https://twitter.com/glitch",
-    "youtube": "https://www.youtube.com/c/GlitchDotCom",
+    "pinterest": "https://www.pinterest.jp/notkitasima/",
+    "twitter": "https://twitter.com/notkitasima",
+    "youtube": "",
     "twitch": "",
     "tiktok": "",
     "podcast": "",
-    "soundcloud": "",
+    "soundcloud": "https://soundcloud.com/kitasima-not/",
     "bandcamp": "",
     "mastodon": "",
     "stackoverflow": "",
     "kofi": "",
-    "email": "support@glitch.com"
+    "email": ""
   }
 }
