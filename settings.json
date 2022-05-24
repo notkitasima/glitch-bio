@@ -1,9 +1,9 @@
 {
   "metaTitle": "Prof",
   "metaDescription": "Prof",
-  "name": "Prof",
+  "name": "notkitasima",
   "theme": "glitch",
-  "avatarImage": "",
+  "avatarImage": "https://cdn.glitch.global/31dd5eac-103e-472e-a00a-0756390ce269/272909853_728861681409218_6636508865217821388_n.jpg?v=1653430027121",
   "links": [
     {
       "url": "https://twitter.com/notkitasima",
@@ -21,13 +21,18 @@
       "img": ""
     },
     {
+      "url": "https://www.tiktok.com/@notkitasima",
+      "text": "tiktok",
+      "img": ""
+    },
+    {
       "url": "https://soundcloud.com/kitasima-not/",
       "text": "soundcloud",
       "img": ""
     }
   ],
   "social": {
-    "glitch": "",
+    "glitch": "https://notkitasima-bio.glitch.me/",
     "spotify": "",
     "substack": "",
     "dev": "",
@@ -43,7 +48,7 @@
     "twitter": "https://twitter.com/notkitasima",
     "youtube": "",
     "twitch": "",
-    "tiktok": "",
+    "tiktok": "https://www.tiktok.com/@notkitasima",
     "podcast": "",
     "soundcloud": "https://soundcloud.com/kitasima-not/",
     "bandcamp": "",
