@@ -753,14 +753,14 @@ C140.251,304.844 142.724,293.258 143.409,289.286 C143.809,286.909 145.648,275.79
     >
       <svg
         class="social-profile-icon"
-        viewBox="0 0 15 15"
+        viewBox="0 0 14 14"
         version="1.1"
         xmlns="http://www.w3.org/2000/svg"
         xmlns:xlink="http://www.w3.org/1999/xlink"
         tabindex="0"
         focusable="true"
-        width="44"
-        height="44"
+        width="24"
+        height="24"
         fill="none"
       >
         <style>
@@ -902,6 +902,46 @@ C140.251,304.844 142.724,293.258 143.409,289.286 C143.809,286.909 145.648,275.79
         <path
           d="M3 3H21C21.2652 3 21.5196 3.10536 21.7071 3.29289C21.8946 3.48043 22 3.73478 22 4V20C22 20.2652 21.8946 20.5196 21.7071 20.7071C21.5196 20.8946 21.2652 21 21 21H3C2.73478 21 2.48043 20.8946 2.29289 20.7071C2.10536 20.5196 2 20.2652 2 20V4C2 3.73478 2.10536 3.48043 2.29289 3.29289C2.48043 3.10536 2.73478 3 3 3ZM12.06 11.683L5.648 6.238L4.353 7.762L12.073 14.317L19.654 7.757L18.346 6.244L12.061 11.683H12.06Z"
           fill="black"
+        />
+      </svg>
+    </a>
+    {{/if}}
+
+    <!-- ==================== -->
+    <!-- TBD -->
+    {{#if settings.social.tbd}}
+    <a
+      aria-label="Send {{settings.name}} an TBD"
+      href="mailto:{{settings.social.tbd}}"
+      tabindex="-1"
+    >
+      <svg
+        viewBox="0 0 24 24"
+        xmlns="http://www.w3.org/2000/svg"
+        width="35"
+        height="54"
+        fill="none"
+      >
+        <style>
+          @keyframes loader2 {
+            0% {
+              -webkit-transform: rotate(0);
+              transform: rotate(0);
+            }
+            to {
+              -webkit-transform: rotate(360deg);
+              transform: rotate(360deg);
+            }
+          }
+        </style>
+        <path
+          fill="#265BFF"
+          d="M17.179 13.605a.431.431 0 00.279.514l.775.245a.393.393 0 00.499-.268 7.318 7.318 0 00-4.5-8.658.39.39 0 00-.507.255l-.245.775a.43.43 0 00.261.523 5.69 5.69 0 013.438 6.614z"
+          style="
+            animation: loader2 1s cubic-bezier(0.63, -0.71, 0.32, 1.28) infinite
+              both;
+            transform-origin: center center;
+          "
         />
       </svg>
     </a>
