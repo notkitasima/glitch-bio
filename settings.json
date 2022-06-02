@@ -1,65 +1,61 @@
 {
   "metaTitle": "notkitasima",
-  "metaDescription": "Yokohama web developer experienced in responsive web design and full stack web development, with vanilla Javascript, the PDRN Stack (PostgresDB, Django, React, Node), HTML, CSS, and SCSS / Sass.",
-  "name": "2f0833e717",
-  "theme": "custom-theme",
-  "avatarImage": "https://cdn.glitch.global/9bee04b8-61f5-48c9-bd22-96218f56dcdd/272909853_728861681409218_6636508865217821388_n.jpg?v=1654196410400",
+  "metaDescription": "notkitasima",
+  "name": "notkitasima",
+  "theme": "glitch",
+  "avatarImage": "https://cdn.glitch.global/31dd5eac-103e-472e-a00a-0756390ce269/272909853_728861681409218_6636508865217821388_n.jpg?v=1653430027121",
   "links": [
     {
-      "url": "https://qiita.com/2f0833e717",
-      "text": "[Qiita] technical writing"
+      "url": "https://twitter.com/notkitasima",
+      "text": "[twitter]"
     },
     {
-      "url": "https://zenn.dev/2f0833e717",
-      "text": "[Zenn] technical writing"
+      "url": "https://www.instagram.com/notkitasima/",
+      "text": "[instagram]"
     },
     {
-      "url": "https://github.com/2f0833e717",
-      "text": "[GitHub] repositories"
+      "url": "https://www.pinterest.jp/notkitasima/",
+      "text": "[pinterest]"
     },
     {
-      "url": "https://ja.stackoverflow.com/users/52910/2f0833e717",
-      "text": "[Stackoverflow] knowledge community"
+      "url": "https://www.tiktok.com/@notkitasima",
+      "text": "[tiktok]"
     },
     {
-      "url": "https://twitter.com/2f0833e717",
-      "text": "[Twitter] technical blog contents"
-    },
-    {
-      "url": "https://glitch.com/@2f0833e717/projects",
-      "text": "[Glitch] projects"
+      "url": "https://soundcloud.com/kitasima-not/",
+      "text": "[soundcloud]"
     }
   ],
   "social": {    
-    "glitch": "https://glitch.com/@2f0833e717",
+    "glitch": "https://glitch.com/@notkitasima",
     "spotify": "",
     "substack": "",
     "dev": "",
     "facebook": "",
-    "github": "https://github.com/2f0833e717",
+    "github": "",
     "gitlab": "",
     "hashnode": "",
-    "instagram": "",
-    "discord": "",
-    "line": "l",
-    "linkedin": "https://linkedin.com/in/2f0833e717",
-    "zenn": "https://zenn.dev/2f0833e717",
+    "instagram": "https://www.instagram.com/notkitasima/",
+    "discord": "d",
+    "line": "https://line.me/ti/p/WB0R1cG-Yt",
+    "linkedin": "",
+    "zenn": "",
     "qiita": "",
     "medium": "",
     "patreon": "",
     "paypal": "",
-    "pinterest": "",
-    "twitter": "https://twitter.com/2f0833e717",
-    "youtube": "a",
+    "pinterest": "https://www.pinterest.jp/notkitasima/",
+    "twitter": "https://twitter.com/notkitasima",
+    "youtube": "",
     "twitch": "",
-    "tiktok": "",
+    "tiktok": "https://www.tiktok.com/@notkitasima",
     "podcast": "",
-    "soundcloud": "",
+    "soundcloud": "https://soundcloud.com/kitasima-not/",
     "bandcamp": "",
     "mastodon": "",
-    "stackoverflow": "https://ja.stackoverflow.com/users/52910/2f0833e717",
+    "stackoverflow": "",
     "kofi": "",
-    "email": "skinoshita202001082135@gmail.com"
+    "email": "notkitasima@gmail.com"
   }
 }
 
