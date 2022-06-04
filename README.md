@@ -1,3 +1,9 @@
+# Live site
+https://notkitasima-bio.glitch.me
+
+# Code
+https://glitch.com/edit/#!/notkitasima-bio
+
 # Glitch in Bio!
 
 Your links, your way. A link-in-bio app you can customize any way you want.
